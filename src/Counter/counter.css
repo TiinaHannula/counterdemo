@@ -1,0 +1,31 @@
+.counter{
+    text-align: center;
+
+}
+
+.circle{
+    box-sizing: border-box;
+    height: 160px;
+    width: 160px;
+    border: solid 0,5px black;
+    border-radius: 50%;
+    text-align: center;
+    margin: 20px auto;
+    background-color: #bd8c8a;
+
+}
+
+.number{
+    text-align: center;
+    font-size: 6em;
+    margin: 0 auto;
+    padding: 20% 0;
+    font-family: 'Comfortaa', cursive;
+}
+
+.buttons{
+    background-color: #9C9984;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
